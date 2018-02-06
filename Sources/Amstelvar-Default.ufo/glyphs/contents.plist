@@ -56,8 +56,54 @@
 	<string>Z_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
+	<key>aacute</key>
+	<string>aacute.glif</string>
+	<key>abreve</key>
+	<string>abreve.glif</string>
+	<key>abreveacute</key>
+	<string>abreveacute.glif</string>
+	<key>abrevedotbelow</key>
+	<string>abrevedotbelow.glif</string>
+	<key>abrevegrave</key>
+	<string>abrevegrave.glif</string>
+	<key>abrevehookabove</key>
+	<string>abrevehookabove.glif</string>
+	<key>abrevetilde</key>
+	<string>abrevetilde.glif</string>
+	<key>acircumflex</key>
+	<string>acircumflex.glif</string>
+	<key>acircumflexacute</key>
+	<string>acircumflexacute.glif</string>
+	<key>acircumflexdotbelow</key>
+	<string>acircumflexdotbelow.glif</string>
+	<key>acircumflexgrave</key>
+	<string>acircumflexgrave.glif</string>
+	<key>acircumflexhookabove</key>
+	<string>acircumflexhookabove.glif</string>
+	<key>acircumflextilde</key>
+	<string>acircumflextilde.glif</string>
+	<key>adblgrave</key>
+	<string>adblgrave.glif</string>
+	<key>adieresis</key>
+	<string>adieresis.glif</string>
+	<key>adotbelow</key>
+	<string>adotbelow.glif</string>
+	<key>agrave</key>
+	<string>agrave.glif</string>
+	<key>ahookabove</key>
+	<string>ahookabove.glif</string>
+	<key>ainvertedbreve</key>
+	<string>ainvertedbreve.glif</string>
+	<key>amacron</key>
+	<string>amacron.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
+	<key>aogonek</key>
+	<string>aogonek.glif</string>
+	<key>aring</key>
+	<string>aring.glif</string>
+	<key>aringacute</key>
+	<string>aringacute.glif</string>
 	<key>asciicircum</key>
 	<string>asciicircum.glif</string>
 	<key>asciitilde</key>
@@ -66,6 +112,8 @@
 	<string>asterisk.glif</string>
 	<key>at</key>
 	<string>at.glif</string>
+	<key>atilde</key>
+	<string>atilde.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
 	<key>backslash</key>
