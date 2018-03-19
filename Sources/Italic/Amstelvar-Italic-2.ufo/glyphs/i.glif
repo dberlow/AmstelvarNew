@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="1">
+  <advance width="556"/>
+  <unicode hex="0069"/>
+  <outline>
+    <contour>
+      <point x="151" y="-21" type="line"/>
+      <point x="110" y="68" type="line"/>
+      <point x="204" y="527" type="line"/>
+      <point x="275" y="820" type="line"/>
+      <point x="94" y="818" type="line"/>
+      <point x="96" y="915" type="line"/>
+      <point x="349" y="1014" type="line"/>
+      <point x="419" y="1014" type="line"/>
+      <point x="488" y="898" type="line"/>
+      <point x="417" y="755" type="line"/>
+      <point x="293" y="140" type="line"/>
+      <point x="514" y="164" type="line"/>
+      <point x="514" y="76" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="1337" type="qcurve" smooth="yes"/>
+      <point x="332" y="1396"/>
+      <point x="394" y="1460"/>
+      <point x="447" y="1460" type="qcurve" smooth="yes"/>
+      <point x="496" y="1460"/>
+      <point x="550" y="1392"/>
+      <point x="544" y="1337" type="qcurve" smooth="yes"/>
+      <point x="538" y="1278"/>
+      <point x="476" y="1214"/>
+      <point x="423" y="1214" type="qcurve" smooth="yes"/>
+      <point x="374" y="1214"/>
+      <point x="320" y="1282"/>
+    </contour>
+    <contour>
+      <point x="225" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="180" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>79.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>380</integer>
+          <key>y</key>
+          <integer>1000</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
