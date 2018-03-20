@@ -15,10 +15,10 @@
       <point x="930" y="1040" type="line"/>
       <point x="993" y="901" type="line"/>
       <point x="1050" y="946"/>
-      <point x="1199" y="1030"/>
+      <point x="1212" y="1030"/>
       <point x="1353" y="1030" type="qcurve" smooth="yes"/>
-      <point x="1419" y="1030"/>
-      <point x="1574" y="917"/>
+      <point x="1452" y="1030"/>
+      <point x="1574" y="928"/>
       <point x="1576" y="870" type="qcurve" smooth="yes"/>
       <point x="1578" y="817"/>
       <point x="1576" y="711"/>
@@ -76,7 +76,7 @@
       <point x="233" y="533"/>
     </contour>
     <contour>
-      <point x="790" y="1000" type="move" name="top"/>
+      <point x="790.0" y="1000.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
