@@ -69,28 +69,6 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>R</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1301</integer>
-        </dict>
         <key>original</key>
         <dict>
           <key>anchors</key>
@@ -550,12 +528,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>R</string>
+          <string>rupeeIndian</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>1301</integer>
+          <integer>1120</integer>
         </dict>
       </dict>
     </dict>
