@@ -18,8 +18,8 @@
       <point x="147" y="10" type="line"/>
     </contour>
     <contour>
-      <point x="567" y="-14" type="line"/>
-      <point x="526" y="75" type="line"/>
+      <point x="547" y="-18" type="line"/>
+      <point x="517" y="35" type="line"/>
       <point x="699" y="777" type="line" smooth="yes"/>
       <point x="707" y="809"/>
       <point x="639" y="876"/>
