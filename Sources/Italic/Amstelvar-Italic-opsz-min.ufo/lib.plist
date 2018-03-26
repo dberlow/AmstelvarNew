@@ -4,10 +4,10 @@
 <dict>
 	<key>com.typemytype.robofont.background.layerStrokeColor</key>
 	<array>
-		<real>0.1243</real>
-		<real>0.2255</real>
-		<real>0.0417</real>
-		<real>0.8442</real>
+		<real>1.0</real>
+		<real>0.75</real>
+		<real>0.0</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
 	<true/>
@@ -32,15 +32,7 @@
 	<real>-100.0</real>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
-		<string>original</string>
 		<string>background</string>
-	</array>
-	<key>com.typemytype.robofont.original.layerStrokeColor</key>
-	<array>
-		<real>1.0</real>
-		<real>0.75</real>
-		<real>0.0</real>
-		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>qcurve</string>
