@@ -11,10 +11,10 @@
 	</array>
 	<key>com.typemytype.robofont.background.layerStrokeColor</key>
 	<array>
-		<real>0.19</real>
-		<real>0.3611</real>
-		<real>0.0465</real>
-		<real>0.7</real>
+		<real>0.0946</real>
+		<real>0.165</real>
+		<real>0.0378</real>
+		<real>0.9307</real>
 	</array>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
 	<true/>

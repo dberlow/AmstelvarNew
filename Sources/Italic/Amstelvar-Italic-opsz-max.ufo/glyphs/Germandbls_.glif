@@ -8,7 +8,7 @@
       <point x="303" y="-404" type="line"/>
       <point x="-199" y="-404" type="line"/>
       <point x="-194" y="-379" type="line"/>
-      <point x="-26" y="-342" type="line"/>
+      <point x="-28" y="-357" type="line"/>
       <point x="209" y="767" type="line"/>
       <point x="256" y="1001" type="line" smooth="yes"/>
       <point x="314" y="1288"/>
@@ -58,7 +58,7 @@
       <point x="474" y="1261"/>
       <point x="439" y="1089" type="qcurve" smooth="yes"/>
       <point x="369" y="747" type="line"/>
-      <point x="138" y="-347" type="line"/>
+      <point x="136" y="-362" type="line"/>
     </contour>
   </outline>
 </glyph>
